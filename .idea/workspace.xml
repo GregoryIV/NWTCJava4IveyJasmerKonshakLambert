@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceb36d13-71ed-4692-a1ec-f0b1045608fc" name="Changes" comment="Have one member perform an intial commit (push).">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="ceb36d13-71ed-4692-a1ec-f0b1045608fc" name="Changes" comment="Have one member perform an intial commit (push).&#10;&#10;7. Work with your team to develop an initial Exception handling structure (try-catch-final blocks) in your code, commit this to the repository (10/10 Points)">
+      <change afterPath="$PROJECT_DIR$/src/LoggingStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/GregBranch" />
@@ -26,13 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666836684657</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Have one member perform an intial commit (push).&#10;&#10;7. Work with your team to develop an initial Exception handling structure (try-catch-final blocks) in your code, commit this to the repository (10/10 Points)">
+      <created>1666991720775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666991720775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Have one member perform an intial commit (push).&#10;&#10;7. Work with your team to develop an initial Exception handling structure (try-catch-final blocks) in your code, commit this to the repository (10/10 Points)">
+      <created>1666991740734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666991740734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,7 +92,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="origin/GregBranch" />
                       </list>
                     </value>
                   </entry>
@@ -74,9 +103,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/GregBranch" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Have one member perform an intial commit (push)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Have one member perform an intial commit (push)." />
+    <MESSAGE value="Have one member perform an intial commit (push).&#10;&#10;7. Work with your team to develop an initial Exception handling structure (try-catch-final blocks) in your code, commit this to the repository (10/10 Points)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Have one member perform an intial commit (push).&#10;&#10;7. Work with your team to develop an initial Exception handling structure (try-catch-final blocks) in your code, commit this to the repository (10/10 Points)" />
   </component>
 </project>
