@@ -10,7 +10,6 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-GregBranch
         // Example Try-Block
         try {
             // Throw an error
@@ -37,6 +36,4 @@ GregBranch
 
     }
 
-        System.out.println("Hello world!! This is Christian's change.");
-master
     }
