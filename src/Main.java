@@ -1,6 +1,6 @@
 public class Main {
     public static int maxStatLevel = 25;
-
+   // eeeeeeeeeeee
     public static void validateCharacterStats(int statToValidate)
             throws UnsupportedOperationException {
 
@@ -25,7 +25,7 @@ public class Main {
             System.out.println("Finally block hit!");
         }
 
-        System.out.println("-----");
+        System.out.println("------");
 
         try {
             validateCharacterStats(50);
