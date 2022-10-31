@@ -26,7 +26,7 @@ public class Main {
         }
 
         System.out.println("------");
-
+        // Another Try Catch block.
         try {
             validateCharacterStats(50);
         }
