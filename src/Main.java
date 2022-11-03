@@ -25,8 +25,8 @@ public class Main {
             System.out.println("Finally block hit!");
         }
 
-        System.out.println("---");
-
+        System.out.println("------");
+        // Another Try Catch block.
         try {
             validateCharacterStats(50);
         }
